@@ -82,7 +82,7 @@ export default function Privacy() {
                         <h2><strong>7. Compliances</strong></h2>
                         <p>We are an ISO 27001:2013 certified company and have implemented required Information Systems Management System policies and procedures in order to maintain industry standard best practices and applicable controls.</p>
                         <p>We have successfully completed “Data Localization” requirements as per Reserve Bank of India (RBI) guidelines. This means all our customer data securely resides inside on one or more data centres located within India.</p>
-                        <p>CRED's use of information received from Google APIs will adhere to&nbsp; including the Limited Use requirements.</p>
+                        <p>CREDs use of information received from Google APIs will adhere to including the Limited Use requirements.</p>
                         <h2><strong>8. Grievance Redressal Officer</strong></h2>
                         <p>In the event that you have a grievance regarding our privacy policy or data usage practices, you may reach out to our Grievance Redressal Officer at the details below:</p>
                         
